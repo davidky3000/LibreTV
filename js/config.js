@@ -87,7 +87,7 @@ const API_SITES = {
         name: '樱花资源'
     },
     baidu: {
-        api: 'https://api.apibdzy.com/api.php/provide/vod/at/xml/',
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度云资源'
     },
     wujin: {
@@ -111,7 +111,7 @@ const API_SITES = {
         name: '小猫咪资源',
     },
     ckzy: {
-        api: 'https://ckzy.me/api.php/provide/vod/at/xml',
+        api: 'https://ckzy.me/api.php/provide/vod',
         name: 'CK资源',
         adult: 'https://www.ckzy1.com'
      },
@@ -121,40 +121,35 @@ const API_SITES = {
         adult: 'https://jkunzyapi.com'
      },
      bwzy: {
-        api: 'https://api.bwzyz.com/api.php/provide/vod/at/xml',
+        api: 'https://api.bwzyz.com/api.php/provide/vod',
         name: '百万资源',
         adult: 'https://api.bwzym3u8.com/'
      },
     souav: {
-        api: 'https://api.souavzy.vip/api.php/provide/vod/at/xml',
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: 'souav资源',
         adult: 'https://api.souavzy.vip/'
      },
     xzytv: {
-        api: 'https://xzybb1.com/api.php/provide/vod/at/xml',
+        api: 'https://xzybb1.com/api.php/provide/vod',
         name: '杏资源站',
         adult: 'https://xzytv.com'
      },
     lsb: {
-        api: 'https://apilsbzy1.com/api.php/provide/vod/at/xml',
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: 'lsb资源',
         adult: 'https://apilsbzy.com'
      },
     huangcang: {
-        api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckyun/at/xml',
+        api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '黄色仓库',
         adult: true,
         detail: 'https://hsckzy.vip'
      },
      yutu: {
-        api: 'https://apiyutu.com/api.php/provide/vod/at/xml',
+        api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔资源',
         adult: 'https://yutuzy10.com'
-     },
-     testSource: {
-        api: 'https://www.example.com',
-        name: '空内容测试源',
-        adult: true
      },
      testSource: {
         api: 'https://www.example.com',
